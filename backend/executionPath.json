@@ -1,0 +1,14 @@
+{
+    "python": {
+        "executionPath": "python3"
+    },
+    "cpp":{
+        "compilationPath": "gcc"
+    },
+    "java":{
+        "executionPath": "java"
+    },
+    "c":{}
+    
+}
+  
